@@ -1,0 +1,5 @@
+fastapi==0.90.0
+uvicorn==0.20.0
+trustyai==0.2.8
+prometheus-client==0.16.0
+prometheus-fastapi-instrumentator==5.9.1
